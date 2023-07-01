@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+.box{
+	border: 2px solid black;
+	width:200px;
+	height:200px;
+	background:lightblue;
+	display:flex;
+	justify-content: center;
+	align-items: center;
+}
+body{
+	display:flex;
+	justify-content: center;
+	align-items: center;
+}
